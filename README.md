@@ -6,7 +6,7 @@ Local Manifest to AOSP 5.1.1 for the Huawei U8950 (Honor Pro)
 Build Instructions
 -----------------------------------------------------------------------------
 
-1. Initialize repo using the SlimLP manifest
+1. Initialize repo using the AOSP manifest
     
         repo init -u git://github.com/AOSP-U8950/manifest.git -b aosp-5.1
 
